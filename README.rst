@@ -35,6 +35,7 @@ Installation
 
 .. code-block:: bash
 
+    $ pip install git+https://github.com/GeoscienceAustralia/digitalearthau
     $ pip install git+https://github.com/opendatacube/datacube-stats/
 
 Usage
